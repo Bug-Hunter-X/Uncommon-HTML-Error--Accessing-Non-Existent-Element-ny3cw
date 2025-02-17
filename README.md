@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in HTML where an attempt is made to access a DOM element before it exists. The bug.html file shows the erroneous code that attempts to manipulate 'myDiv' before it's created. The solution demonstrates the correct approach of ensuring the element exists in the DOM before manipulating it.
